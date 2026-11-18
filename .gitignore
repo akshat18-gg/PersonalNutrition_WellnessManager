@@ -1,0 +1,51 @@
+# ---- Compiled output ----
+bin/
+out/
+build/
+target/
+*.class
+
+# ---- Generated at runtime ----
+reports/
+*.log
+hs_err_pid*.log
+replay_pid*.log
+
+# ---- Local config (contains your MySQL password) ----
+# Copy config/db.properties.example to config/db.properties and edit it.
+config/db.properties
+
+# ---- IDE / editor ----
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.metadata/
+nbproject/
+nbbuild/
+nbdist/
+.nb-gradle/
+*.swp
+*.swo
+*~
+
+# ---- OS junk ----
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ---- Misc ----
+*.tmp
+*.bak
+*.zip
+*.tar.gz
+.env
