@@ -62,7 +62,6 @@ NutriTrack/
 │   └── nutritrack_schema.sql  tables + sample data
 ├── tools/
 │   └── SmokeTest.java         console test of every DAO and service
-├── docs/                      project notes
 ├── lib/
 │   └── mysql-connector-j.jar  MySQL JDBC driver (9.2.0)
 ├── screenshots/
