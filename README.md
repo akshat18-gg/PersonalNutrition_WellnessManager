@@ -1,4 +1,5 @@
 # NutriTrack – Personal Nutrition & Wellness Manager
+group 16
 
 A desktop app for tracking meals, water intake and daily nutrition goals, built with **Java Swing**, **JDBC** and **MySQL**. It uses plain Java only, with no frameworks and no build tool.
 
